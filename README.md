@@ -13,7 +13,6 @@ les librairies à installer sont:
   
   *matplotlib
   
-  *pyplot
 
 =============================================================================================================================
 ### Pour cloner le projet il suffit d'éxecuter cette commande:
