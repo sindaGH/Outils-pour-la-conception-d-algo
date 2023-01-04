@@ -9,7 +9,9 @@ ainsi que 3 fichiers texts contenant la base de donnée de Stanford.
 
 les librairies à installer sont: 
   *networkx
+  
   *matplotlib
+  
   *pyplot
 
 =============================================================================================================================
