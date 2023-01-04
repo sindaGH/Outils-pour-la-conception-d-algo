@@ -13,7 +13,7 @@ les librairies à installer sont:
   *pyplot
 
 =============================================================================================================================
-Pour cloner le projet il suffit d'éxecuter cette commande:
+### Pour cloner le projet il suffit d'éxecuter cette commande:
 
 $ git clone https://github.com/sindaGH/Outils-pour-la-conception-d-algo.git
 $ cd projet_algo
@@ -21,4 +21,11 @@ $ cd projet_algo
 
 
 ===========================================================================================================================
-Pour le programme il suffit d'éxecuter cette commande:
+### Pour le programme il suffit d'éxecuter cette commande:
+
+
+
+### Auteurs 
+Gharsi Sinda Chams el ghozlen 
+Omezine Manar 
+Ben sghaier Mohamed ameur
