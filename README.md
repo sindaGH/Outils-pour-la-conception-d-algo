@@ -8,6 +8,7 @@ Le projet contient deuc scripts python:
 ainsi que 3 fichiers texts contenant la base de donnée de Stanford.
 
 les librairies à installer sont: 
+
   *networkx
   
   *matplotlib
@@ -17,7 +18,10 @@ les librairies à installer sont:
 =============================================================================================================================
 ### Pour cloner le projet il suffit d'éxecuter cette commande:
 
+
 $ git clone https://github.com/sindaGH/Outils-pour-la-conception-d-algo.git
+
+
 $ cd projet_algo
 
 
@@ -27,7 +31,11 @@ $ cd projet_algo
 
 
 
+
 ### Auteurs 
+
 Gharsi Sinda Chams el ghozlen 
+
 Omezine Manar 
+
 Ben sghaier Mohamed ameur
